@@ -8,7 +8,7 @@ namespace GameJamMai2019.Classes
 	class Card
 	{
 		public int ManaCost;
-		public Element Element;
+		public Elements Element;
 		public string Name;
 
 	}

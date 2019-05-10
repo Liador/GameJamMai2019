@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using GameJamMai2019.Enums;
 
 namespace GameJamMai2019.Classes
 {
-	class Slot
-	{
-		public Elements Element;
-
+    class Coord
+    {
+		public double X;
+		public double Y;
 	}
 }
